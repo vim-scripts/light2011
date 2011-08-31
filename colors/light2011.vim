@@ -14,8 +14,9 @@ let g:colors_name = "light2011"
 
 
 hi Normal guibg=#F0FBEB  guifg=#008080
-hi Comment gui=none guifg=#777777
-hi operator gui=none guifg=#2E8B70
+hi Comment gui=none guifg=#999999
+hi Keyword gui=none guifg=#2E8B70
+hi Identifier gui=none guifg=#2E8B70
 hi LineNr gui=bold guifg=#008080 guibg=#E8F5FE 
 hi CursorLine guibg=#E5E5E5
 
